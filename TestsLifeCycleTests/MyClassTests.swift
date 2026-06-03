@@ -14,6 +14,8 @@ class MyClassTests: XCTestCase {
         let sut = MyClass()
 
         sut.methodOne()
+
+        XCTFail("Failed, yo")
     }
 
     func test_methodTwo() {
