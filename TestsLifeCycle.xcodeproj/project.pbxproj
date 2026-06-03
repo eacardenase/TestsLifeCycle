@@ -32,6 +32,7 @@
 		202A4B332FD05FC200A7D738 /* TestsLifeCycleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestsLifeCycleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		202A4B3D2FD05FC200A7D738 /* TestsLifeCycleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestsLifeCycleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		202A4B512FD05FCD00A7D738 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		202A4DE12FD0E18600A7D738 /* TestsLifeCycle.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestsLifeCycle.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -93,6 +94,7 @@
 		202A4B142FD05FC000A7D738 = {
 			isa = PBXGroup;
 			children = (
+				202A4DE12FD0E18600A7D738 /* TestsLifeCycle.xctestplan */,
 				202A4B512FD05FCD00A7D738 /* README.md */,
 				202A4B1F2FD05FC000A7D738 /* TestsLifeCycle */,
 				202A4B362FD05FC200A7D738 /* TestsLifeCycleTests */,
